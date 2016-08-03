@@ -1,0 +1,25 @@
+{
+  "name": "parse-server-email-stub-adapter",
+  "version": "1.0.0",
+  "description": "Used to send Parse Server password reset and email verification emails with a function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classam/parse-server-email-stub-adapter.git"
+  },
+  "keywords": [
+    "parse",
+    "server",
+    "mail",
+    "email",
+    "adapter"
+  ],
+  "author": "Curtis Lassam <curtis@lassam.net>",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/classam/parse-server-email-stub-adapter",
+  "dependencies": {
+  }
+}
